@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 
-<!--
-**Israel-ops-cmd/Israel-ops-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Israel Felipe e sou um desenvolvedor apaixonado por resolver problemas e aprender novas tecnologias. 🚀
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 🎓 Estudante de Tecnologia da Informação.
+- 🌱 Atualmente estou aprendendo javaScript, HTML e CSS.
+- 💻 Estou totalmente focado em aprender como me tornar um desenvolvedor full stack.
+- 📚 Em busca de novas oportunidades para expandir minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Experiência com Excel, pesquisa acadêmica, algoritmos e redação.
+
+## Contato
+- 📫 Email: israellipe2020@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/israelbrands)
+- 📷 [Instagram]([https://instagram.com/israelsilvaa])
