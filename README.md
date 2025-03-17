@@ -4,7 +4,7 @@ Meu nome é Israel Felipe e sou um desenvolvedor apaixonado por resolver problem
 
 ## Sobre Mim
 - 🎓 Estudante de Tecnologia da Informação.
-- 🌱 Atualmente estou aprendendo javaScript, HTML e CSS.
+- 🌱 Atualmente estou aprendendo javaScript, HTML, CSS e React,
 - 💻 Estou totalmente focado em aprender como me tornar um desenvolvedor full stack.
 - 📚 Em busca de novas oportunidades para expandir minhas habilidades.
 
